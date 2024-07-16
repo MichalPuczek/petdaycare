@@ -1,41 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pet Daycare
+
+Pet Daycare is a plateforme that will allow you to easily track the animals in your care.
+
+This is a complete Next.js full CRUD project with authentification, payments, server components, servcer actions, optimistic UI and client and server side validations.
+
+The project is deployed on Vercel with the PostgreSQL databse handled by Prisma.
+
+### Technologies / frameworks used in this project
+
+#### Tailwind CSS
+
+#### Typescript
+
+#### Stripe
+
+#### Shadcn UI
+
+#### ZOD
+
+#### React Hook Form
+
+#### Next-auth
+
+#### clsx
+
+#### tailwind-merge
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone http://url-to-my-repo
+npm install
+npm start
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Dependencies :
-
-### Shadcn UI
-
-### React Hook Form
-
-### ZOD
-
-### Prisma
-
-### SQLite (local) & PostgreSQL (production)
-
-### Prisma
-
-### Client and server side validation
-
-### Full CRUD
-
-### Optimistic UI
